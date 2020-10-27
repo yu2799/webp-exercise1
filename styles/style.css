@@ -1,0 +1,54 @@
+html {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    background-color: #00539F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+#twetter {
+    color: #ff9500;
+    text-decoration: none;
+    text-align: right;
+}
+
+#twetterId {
+    color: #ff9560;
+    text-decoration: none;
+    text-align: right;
+}
+
+#pressedImage {
+    color: red;
+}
